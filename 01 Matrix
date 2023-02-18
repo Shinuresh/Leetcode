@@ -9,7 +9,7 @@ The distance between two adjacent cells is 1.
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int m = mat.length;
-        int n = mat.length;
+        int n = mat[0].length;
 
         Queue<int[]> queue = new LinkedList<>();
         for(int i=0;i< m;i++){
