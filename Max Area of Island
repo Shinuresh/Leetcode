@@ -4,7 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * Created by Naresh Gupta on 2/8/2021 AD.
  * Detailed Video Explanation - https://www.youtube.com/watch?v=LrbsISJVVGg
  */
 public class _0695_Max_Area_of_Island {
